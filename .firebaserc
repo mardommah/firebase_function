@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "testing-7c21e",
+    "testing": "testing-7c21e"
+  },
+  "targets": {},
+  "etags": {}
+}
